@@ -1,0 +1,7 @@
+{
+  "Name": "Create Order",
+  "URL": "/order/create",
+  "roles": [
+    "ADMIN"
+  ]
+}

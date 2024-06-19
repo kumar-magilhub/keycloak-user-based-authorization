@@ -1,0 +1,15 @@
+{
+  "realm": "Testing",
+  "auth-server-url": "http://localhost:8080",
+  "resource": "Testing",
+  "credentials": {
+    "secret": "lC5rE7VBRndtUE8LuXx7vHVlldbVwukU"
+  },
+  "paths": [
+    {
+      "name": "Keycloak API",
+      "path": "/keycloak/*",
+      "enforcement-mode": "DISABLED"
+    }
+  ]
+}
